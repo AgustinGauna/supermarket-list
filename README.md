@@ -1,16 +1,15 @@
-# Ejercicio de entrevista, lista de supermercado
+# Bienvenido a mi proyecto 
+este es un challenge de gonzalo pozzo, el link original es este: https://github.com/goncy/interview-challenges/tree/main/supermarket-list
 
-Podemos encontrar tres carpetas [case-0](./case-0), [case-1](./case-1) y [case-2](./case-2) que contienen diferentes desafíos para una misma aplicación, una lista de supermercado.
+Para visualizarlo podes entrar al siguiente link:
+https://wordle-seven-dun.vercel.app/
 
-Cada caso se vuelve un poco más difícil.
+## En caso de querer clonarlo seguir los siguientes pasos
+### `git clone https://github.com/AgustinGauna/wordle/`
+###  `npm install`
 
-Podés clonarlo o usarlo directamentes desde codesandbox:
+Para poder ejecutar la app lo primero es instalar todas las dependencias con el comando anterior
 
-* [Caso 0](https://github.com/goncy/interview-challenges/tree/main/supermarket-list/case-0) - [CODESANDBOX](https://codesandbox.io/s/github/goncy/interview-challenges/tree/main/supermarket-list/case-0)
-* [Caso 1](https://github.com/goncy/interview-challenges/tree/main/supermarket-list/case-1) - [CODESANDBOX](https://codesandbox.io/s/github/goncy/interview-challenges/tree/main/supermarket-list/case-1)
-* [Caso 2](https://github.com/goncy/interview-challenges/tree/main/supermarket-list/case-2) - [CODESANDBOX](https://codesandbox.io/s/github/goncy/interview-challenges/tree/main/supermarket-list/case-2)
+#### `npm run dev`
 
-Estos ejercicios fueron resueltos en vivo en un simulacro de entrevista que podés ver [acá](https://youtube.com/watch?v=ocwsPB1ysOQ).
-
----
-Si te gusta mi contenido, seguime en [Twitter](https://twitter.gonzalopozzo.com), en [Twitch](https://twitch.gonzalopozzo.com), doname un [Cafecito](https://cafecito.gonzalopozzo.com) o volvete [sponsor en github](https://github.com/sponsors/goncy) ✨
+Con este comando inicializamos la app en nuestro navegador
