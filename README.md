@@ -1,8 +1,6 @@
 # Bienvenido a mi proyecto 
 este es un challenge de gonzalo pozzo, el link original es este: https://github.com/goncy/interview-challenges/tree/main/supermarket-list
 
-Para visualizarlo podes entrar al siguiente link:
-https://wordle-seven-dun.vercel.app/
 
 ## En caso de querer clonarlo seguir los siguientes pasos
 ### `git clone https://github.com/AgustinGauna/supermarket-list
